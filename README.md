@@ -15,10 +15,6 @@ It provides real‑time monitoring of AI endpoints, KPIs, alerts, and visualizat
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:** React, Vite, Chart.js/Recharts, CSS/Tailwind  
-**Backend:** Flask, Flask‑CORS, Gunicorn  
-**Deployment:** Netlify/Vercel (frontend), Render/Railway/Heroku (backend)
 
 ---
 
